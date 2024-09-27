@@ -21,7 +21,7 @@ This project is a simple **Udemy Clone** website built using **HTML** and **CSS*
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/udemy-clown.git
+   git clone https://madhina-18.github.io/Udemy-Clone-Website/
    
 
 2. Navigate to the project folder:
